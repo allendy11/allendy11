@@ -11,7 +11,7 @@
 
 ## Team Project
 <div align=center> 
-<img src="https://user-images.githubusercontent.com/75522130/145033863-e23a56c3-62bd-4917-b298-a30d9b9d6dd0.png" style='width: 20' />
+<img src="https://user-images.githubusercontent.com/75522130/145033863-e23a56c3-62bd-4917-b298-a30d9b9d6dd0.png" height: "50"/>
 </div>
 
 <!--
