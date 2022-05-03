@@ -1,6 +1,4 @@
-### Hi there 👋
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=About%20DH&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=About%20DH&fontSize=40" />
 
 ## Technology Stack
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>
