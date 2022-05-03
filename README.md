@@ -1,6 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=About%20DH&fontSize=40" />
 
 ## Technology Stack
+<div align="center">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"/></a>
@@ -8,16 +9,6 @@
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Express&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>
-
-## Team Project
-<div align=center> 
-  <div transform="scale=0.5">
-    <img src="https://user-images.githubusercontent.com/75522130/145033863-e23a56c3-62bd-4917-b298-a30d9b9d6dd0.png" width="50%" height="50%"/>
-   </div>
-  <div>
-  <a href="https://github.com/codestates/Withyou">Link</a>
-      
-  </div>
 </div>
 
 <!--
