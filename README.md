@@ -12,7 +12,7 @@
 ## Team Project
 <div align=center> 
   <div transform="scale=0.5">
-    <img src="https://user-images.githubusercontent.com/75522130/145033863-e23a56c3-62bd-4917-b298-a30d9b9d6dd0.png"/>
+    <img src="https://user-images.githubusercontent.com/75522130/145033863-e23a56c3-62bd-4917-b298-a30d9b9d6dd0.png" width="50%" height="50%"/>
    </div>
   <div>
   <a href="https://github.com/codestates/Withyou">Link</a>
