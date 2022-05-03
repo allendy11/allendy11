@@ -9,7 +9,8 @@
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Express&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/></a>
 
-
+## Team Project
+![githublogo](https://user-images.githubusercontent.com/75522130/145033863-e23a56c3-62bd-4917-b298-a30d9b9d6dd0.png)
 <!--
 **allendy11/allendy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
