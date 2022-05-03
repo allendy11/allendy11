@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0b5394&height=100&section=header&text=About%20DH&fontSize=25&fontColor=f3f6f4" />
+<img src="https://capsule-render.vercel.app/api?type=Transparent&color=0b5394&height=100&section=header&text=About%20DH&fontSize=25&fontColor=f3f6f4" />
 
 ## Technology Stack
 <div align="center">
