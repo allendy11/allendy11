@@ -18,9 +18,13 @@
   <div>
     Withyou - 청첩장 만들기 앱
   </div>
-  <a href="with-you.co.kr">with-you.co.kr</a>
-  <a href="https://github.com/allendy11/Withyou">Github</a>
-  <a href="https://codestates.notion.site/1-You-Me-Withyou-ef7d7c56a5b149f1a7da3ee5b173d332">Notion</a>
+  <div>배포: <a href="with-you.co.kr">with-you.co.kr</a></div>
+  <div>
+  Github: <a href="https://github.com/allendy11/Withyou">Link</a>
+  </div>
+  <div>
+  Notion: <a href="https://codestates.notion.site/1-You-Me-Withyou-ef7d7c56a5b149f1a7da3ee5b173d332">Link</a>
+  </div>
 </div>
 
 #### First Project
