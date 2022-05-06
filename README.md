@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 </div>
 
-## Team Project
+<!-- ## Team Project
 
 #### Final Project
 <div>
@@ -34,7 +34,7 @@
   </div>
   <a href="https://github.com/allendy11/Cocktailist">Github</a>
   
-</div>
+</div> -->
 
 
 
