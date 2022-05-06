@@ -18,7 +18,9 @@
   <div>
     Withyou - 청첩장 만들기 앱
   </div>
-  <a href="https://github.com/allendy11/Withyou">Link</a>
+  <a href="with-you.co.kr">with-you.co.kr</a>
+  <a href="https://github.com/allendy11/Withyou">Github</a>
+  <a href="https://codestates.notion.site/1-You-Me-Withyou-ef7d7c56a5b149f1a7da3ee5b173d332">Notion</a>
 </div>
 
 #### First Project
@@ -26,7 +28,7 @@
   <div>
     Cocktailist - 칵테일 추천 및 제조법 웹
   </div>
-  <a href="https://github.com/allendy11/Cocktailist">Link</a>
+  <a href="https://github.com/allendy11/Cocktailist">Github</a>
   
 </div>
 
