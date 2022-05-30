@@ -17,7 +17,7 @@
 <div>
   
   <div align='center'>
-    <img src="https://user-images.githubusercontent.com/74442233/171004589-d2e8fd48-5ccb-4a5a-b055-0c39e4c62043.png" alt='logo'>
+    <img width="100px" src="https://user-images.githubusercontent.com/74442233/171004589-d2e8fd48-5ccb-4a5a-b055-0c39e4c62043.png" alt='logo'>
     <div>
       <h3>Withyou - 청첩장 만들기 앱!</h3>
 
