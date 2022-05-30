@@ -11,30 +11,39 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 </div>
 
-<!-- ## Team Project
+## Team Project
 
-#### Final Project
+### ⚬ Final Project
 <div>
-  <div>
-    Withyou - 청첩장 만들기 앱
+  
+  <div align='center'>
+    <img src="https://user-images.githubusercontent.com/74442233/171004589-d2e8fd48-5ccb-4a5a-b055-0c39e4c62043.png" alt='logo'>
+    <div>
+      <h3>Withyou - 청첩장 만들기 앱!</h3>
+
   </div>
-  <div>배포: <a href="with-you.co.kr">with-you.co.kr</a></div>
+    
+  </div>
+  [배포](https://with-you.co.kr)
   <div>
-  Github: <a href="https://github.com/allendy11/Withyou">Link</a>
+  [Github](https://github.com/allendy11/Withyou)
   </div>
   <div>
-  Notion: <a href="https://codestates.notion.site/1-You-Me-Withyou-ef7d7c56a5b149f1a7da3ee5b173d332">Link</a>
+  [Notion](https://codestates.notion.site/1-You-Me-Withyou-ef7d7c56a5b149f1a7da3ee5b173d332)
+  </div>
+  <div>
+    [Server Refactoring](https://github.com/allendy11/Withyou_server)
   </div>
 </div>
+<hr/>
 
-#### First Project
+### ⚬ First Project
 <div>
   <div>
     Cocktailist - 칵테일 추천 및 제조법 웹
   </div>
-  <a href="https://github.com/allendy11/Cocktailist">Github</a>
-  
-</div> -->
+  [Github](https://github.com/allendy11/Cocktailist)
+</div>
 
 
 
