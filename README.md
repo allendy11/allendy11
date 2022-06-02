@@ -32,7 +32,7 @@
   [Notion](https://codestates.notion.site/1-You-Me-Withyou-ef7d7c56a5b149f1a7da3ee5b173d332)
   </div>
   <div>
-    [Server Refactoring](https://github.com/allendy11/Withyou_server)
+<!--     [Server Refactoring](https://github.com/allendy11/Withyou_server) -->
   </div>
 </div>
 <hr/>
