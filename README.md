@@ -11,6 +11,20 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 </div>
 
+## In Progress
+### ⚬ Personal Project
+<div>
+  <div align='center'>
+    <h3>TOBID - 유저 참여 경매 사이트 </h3>
+  </div>
+  <div>
+  [Github](https://github.com/allendy11/Tobid)
+  </div>
+  <div>
+  [Notion](https://leaf-crayfish-9d1.notion.site/Personal-Project-1d21d314152b43888b6ee8e7a55ad82d)
+  </div>
+</div>
+
 ## Team Project
 
 ### ⚬ Final Project
