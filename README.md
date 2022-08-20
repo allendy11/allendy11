@@ -15,7 +15,8 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 </div>
 </br>
-<div align="center">
+<div>
+
   <img align=center src="https://github-readme-stats.vercel.app/api?username=allendy11&show_icons=true&&title_color=937047&icon_color=937047&text_color=e7dac7&bg_color=151515"/>
   
   <img align=center src="https://github-readme-stats.vercel.app/api/top-langs/?username=allendy11&layout=compact&show_icons=true&title_color=937047&icon_color=937047&text_color=e7dac7&bg_color=151515"/>
