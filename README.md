@@ -11,6 +11,18 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 </div>
 
+
+</br>
+<hr>
+
+<div display=true>
+
+<!--
+[![allendy11's GitHub stats](https://github-readme-stats.vercel.app/api?username=allendy11&theme=tokyonight)](https://github.com/allendy11/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allendy11&layout=compact&theme=tokyonight)](https://github.com/allendy11/github-readme-stats)
+-->
+
 <!-- ## In Progress
 ### ⚬ Personal Project
 <div>
@@ -60,10 +72,7 @@
   </div>
   [Github](https://github.com/allendy11/Cocktailist)
 </div>
-
-
 -->
-
 <!--
 **allendy11/allendy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
