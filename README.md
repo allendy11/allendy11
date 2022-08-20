@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 </div>
 
-## In Progress
+<!-- ## In Progress
 ### ⚬ Personal Project
 <div>
   <div align='center'>
@@ -24,7 +24,8 @@
   [Notion](https://leaf-crayfish-9d1.notion.site/Personal-Project-1d21d314152b43888b6ee8e7a55ad82d)
   </div>
 </div>
-
+-->
+<!--
 ## Team Project
 
 ### ⚬ Final Project
@@ -46,11 +47,12 @@
   [Notion](https://codestates.notion.site/1-You-Me-Withyou-ef7d7c56a5b149f1a7da3ee5b173d332)
   </div>
   <div>
-<!--     [Server Refactoring](https://github.com/allendy11/Withyou_server) -->
+    [Server Refactoring](https://github.com/allendy11/Withyou_server) 
   </div>
 </div>
 <hr/>
-
+-->
+<!--
 ### ⚬ First Project
 <div>
   <div>
@@ -60,7 +62,7 @@
 </div>
 
 
-
+-->
 
 <!--
 **allendy11/allendy11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
